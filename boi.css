@@ -1,0 +1,16 @@
+.boi{ 
+	/* display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  */
+  box-sizing: border-box;
+width: 100%;
+height: 150px;
+padding: 3px;
+background-image: url(good.png);
+background-size: 100% 100%;
+}
+.games{
+	width: 100%;
+}
